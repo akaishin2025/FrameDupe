@@ -1,0 +1,8 @@
+name: FrameDupe
+version: ${project.version}
+main: me.akaishin.framedupe.FrameDupe
+authors: [ akaishin ]
+description: Plugin duplica items con probabilidades
+commands:
+  framedupereload:
+    usage: /framedupereload

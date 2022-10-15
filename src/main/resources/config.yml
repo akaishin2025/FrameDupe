@@ -1,0 +1,9 @@
+#ItemFrameDupe Update
+#FrameDupe 2.7
+#Plugin de duplicasion actualizada para versiones superior a la 1.17
+
+#Probabilidad del marco normal
+probability-percentage: 100
+
+#PROBABILIDAD de frame luminoso
+probability-percentage-new: 100
